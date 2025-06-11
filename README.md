@@ -1,23 +1,23 @@
-a. Nama
+A. Nama
 Ardy Putra Fachrozi
 
-b. Judul Project
+B. Judul Project
 To-Do List Kalender Berbasis Flutter dengan Firebase
 
-c. Deskripsi Fungsionalitas Aplikasi
+C. Deskripsi Fungsionalitas Aplikasi
 Aplikasi ini merupakan to-do list dengan tampilan dengan fitur kalender yang memungkinkan pengguna untuk:
 - Menambahkan, mengedit, dan menghapus kegiatan.
 - Menyimpan data to-do secara online menggunakan Firebase Firestore.
 - Mengakses data dari berbagai perangkat melalui autentikasi akun.
 - Menandai tugas sebagai selesai
 
-d. Teknologi yang Digunakan
+D. Teknologi yang Digunakan
 - Flutter (UI Framework)
 - Firebase Authentication (Login/Sign up)
 - Cloud Firestore (Database penyimpanan data to-do)
 - Table Calendar (Plugin Flutter untuk tampilan kalender)
 
-e. Cara Menjalankan Aplikasi
+E. Cara Menjalankan Aplikas
 1. Clone repository.
 2. Buka project dengan VS Code atau Android Studio.
 3. Install dependencies: "flutter pub get".
@@ -28,3 +28,6 @@ e. Cara Menjalankan Aplikasi
 ![Screenshot 2025-06-11 074844](https://github.com/user-attachments/assets/2ed62e0e-8d16-46b1-89c1-0b0ad6270b62)
 ![Screenshot 2025-06-11 074819](https://github.com/user-attachments/assets/de401d70-f608-4948-8ca6-136bec7c63be)
 ![Screenshot 2025-06-11 074932](https://github.com/user-attachments/assets/3b4022a8-d567-4edf-8006-28076adcf892)
+![Screenshot 2025-06-11 092310](https://github.com/user-attachments/assets/7272a1fa-a105-4dd8-a129-ccbd0eddf49e)
+![Screenshot 2025-06-11 092200](https://github.com/user-attachments/assets/bb8b5cc3-e138-48a0-9e1c-97d1500310a2)
+
