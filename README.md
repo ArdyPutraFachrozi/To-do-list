@@ -23,3 +23,8 @@ e. Cara Menjalankan Aplikasi
 3. Install dependencies: "flutter pub get".
 4. Hubungkan dengan Firebase: -Buat project di Firebase Console. -Download google-services.json dan letakkan di android/app/. Jalankan perintah: "flutterfire configure"
 5. Jalankan App dengan run di terminal "flutter run"
+
+![Screenshot 2025-06-11 074914](https://github.com/user-attachments/assets/552854a4-0127-4324-b3c7-53c48b9b22f1)
+![Screenshot 2025-06-11 074844](https://github.com/user-attachments/assets/2ed62e0e-8d16-46b1-89c1-0b0ad6270b62)
+![Screenshot 2025-06-11 074819](https://github.com/user-attachments/assets/de401d70-f608-4948-8ca6-136bec7c63be)
+![Screenshot 2025-06-11 074932](https://github.com/user-attachments/assets/3b4022a8-d567-4edf-8006-28076adcf892)
